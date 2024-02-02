@@ -29,8 +29,6 @@ Currently I am working on Transformer based NLP model fine tuning uisng Open Sou
   - scikit-learn, tensorflow & Keras, PyTorch
   - boto3
   - flask, flassger, FastAPI, logging
-  - transformers, langchain, streamlite, Hugging face, pinnecone, Cohere, OpenAI
-  - opencv
 
 - **Deployment**
   - CI/CD Pipeline Automation using Jenkins
@@ -40,6 +38,11 @@ Currently I am working on Transformer based NLP model fine tuning uisng Open Sou
 - **GenAI**
   - Long Language Models, Embedding Models
   - Transformer model Architecture, Encoder, Decoder, Self Attention, Softmax
+
+- **Python Libraries for transformer model**
+  - transformers, langchain, streamlit, Hugging face,
+  - pinnecone-client, Cohere, OpenAI
+  - tiktoken, pypdf
 
 - **AWS**
   - RDS, ECS, ECR, VPC, S3, IAM, EC2
