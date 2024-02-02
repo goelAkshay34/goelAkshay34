@@ -29,7 +29,7 @@ Currently I am working on Transformer based NLP model fine tuning uisng Open Sou
   - scikit-learn, tensorflow & Keras, PyTorch
   - boto3
   - flask, flassger, FastAPI, logging
-  - langchain, streamlite, Hugging face, pinnecone, Cohere, OpenAI
+  - transformers, langchain, streamlite, Hugging face, pinnecone, Cohere, OpenAI
   - opencv
 
 - **Deployment**
