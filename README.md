@@ -99,3 +99,9 @@ I am a Machine Learning Engineer with over 4 years of hands-on experience in the
 - **Description:** Framework for Force Control Strategies on Parallel Manipulator and Implementation on MATLAB Simulation.
 
 ---
+<hr>
+<h3> Visitor count </h3>
+<p align="left">
+  <img src="https://profile-counter.glitch.me/akshaygoel34/count.svg" />
+</p>
+<hr>
