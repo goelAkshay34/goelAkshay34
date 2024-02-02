@@ -13,6 +13,16 @@ I am a Machine Learning Engineer with over 4 years of hands-on experience in the
 Currently I am working on Transformer based NLP model fine tuning uisng Open Source transformer model using HuggingFace Hub. Exciited to work on building Prompt based Longchain scripts using API wrappers.
 
 ## Skills
+- **GenAI**
+  - Long Language Models (LLM), Embedding Models, NLP
+  - Transformer model Architecture, Encoder, Decoder, Self Attention, Softmax
+  - Text Classification, Token Classification, Zero-Shot Classification, Summarization
+  - Text2Text Generation, Feature Extraction, Text-to-Image, Image-to-Text
+
+- **Python Libraries for transformer model**
+  - transformers, langchain, streamlit, Hugging face,
+  - pinnecone-client, Cohere, OpenAI
+  - tiktoken, pypdf
 
 - **Machine Learning**
   - Supervised Learning (Classification & Regression model), Unspervised Learning.
@@ -35,17 +45,6 @@ Currently I am working on Transformer based NLP model fine tuning uisng Open Sou
   - CI/CD Pipeline Automation using Jenkins
   - Containerization using Docker
   - Exposing ML model using API
-
-- **GenAI**
-  - Long Language Models (LLM), Embedding Models, NLP
-  - Transformer model Architecture, Encoder, Decoder, Self Attention, Softmax
-  - Text Classification, Token Classification, Zero-Shot Classification, Summarization
-  - Text2Text Generation, Feature Extraction, Text-to-Image, Image-to-Text
-
-- **Python Libraries for transformer model**
-  - transformers, langchain, streamlit, Hugging face,
-  - pinnecone-client, Cohere, OpenAI
-  - tiktoken, pypdf
 
 - **AWS**
   - RDS, ECS, ECR, VPC, S3, IAM, EC2
