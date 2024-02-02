@@ -1,6 +1,5 @@
 # Akshay Goel - Machine Learning Engineer
 
-📞 **Phone:** +91 96490 59699  
 📧 **Email:** akshaygoel34@gmail.com  
 🌐 **LinkedIn:** [linkedin.com/in/akshaygoel34](https://www.linkedin.com/in/akshaygoel34)  
 🌐 **GitHub:** [github.com/goelAkshay34](https://github.com/goelAkshay34)
