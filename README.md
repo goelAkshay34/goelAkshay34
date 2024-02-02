@@ -33,7 +33,7 @@ Currently I am working on Transformer based NLP model fine tuning uisng Open Sou
   - langchain, streamlite, Hugging face, pinnecone, Cohere, OpenAI
   - opencv
 
- - **Deployment**
+- **Deployment**
   - CI/CD Pipeline Automation using Jenkins
   - Containerization using Docker
   - Exposing ML model using API
