@@ -17,13 +17,14 @@ Currently I am working on Transformer based NLP model fine tuning uisng Open Sou
 - **Machine Learning**
   - Supervised Learning (Classification & Regression model), Unspervised Learning.
   - Bagging & Boosting Models
-  - Natural Language Processing.
+  - Natural Language Processing (Tokenization, Embeddings)
   - Long Short-Term Memory (LSTM)
   - Probability & Statistics
   - Data Cleaning, Data Preparation
   - Exploratory Data Analysis
   - Feature Engineering
   - Model Builing
+  - Convolutional Neural Network
 
 - **Python Libraries**
   - scikit-learn, tensorflow & Keras, PyTorch
@@ -36,8 +37,10 @@ Currently I am working on Transformer based NLP model fine tuning uisng Open Sou
   - Exposing ML model using API
 
 - **GenAI**
-  - Long Language Models, Embedding Models
+  - Long Language Models (LLM), Embedding Models, NLP
   - Transformer model Architecture, Encoder, Decoder, Self Attention, Softmax
+  - Text Classification, Token Classification, Zero-Shot Classification, Summarization
+  - Text2Text Generation, Feature Extraction, Text-to-Image, Image-to-Text
 
 - **Python Libraries for transformer model**
   - transformers, langchain, streamlit, Hugging face,
@@ -48,10 +51,8 @@ Currently I am working on Transformer based NLP model fine tuning uisng Open Sou
   - RDS, ECS, ECR, VPC, S3, IAM, EC2
   -  Lambda, CloudWatch, Sagemaker, Kinesis, Firehose
   
-- **AZure**
+- **Azure**
   - Virtual Machine, Data Factory, Function App, Azure Database for PostgreSQL
-    
-
 
 ---
 <hr>
