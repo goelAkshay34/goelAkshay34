@@ -8,9 +8,9 @@
 
 ## Summary
 
-I am a Machine Learning Engineer with over 4 years of hands-on experience in the end-to-end machine learning model build lifecycle. My expertise spans various areas, including Exploratory Data Analysis, Data Visualization, Dimensionality Reduction, Supervised Learning, Unsupervised Learning, Deep Learning, and Database management.
+Machine Learning Engineer with 4+ years of hands-on experience in the end-to-end machine learning model build lifecycle. My expertise spans various areas, including Exploratory Data Analysis, Data Visualization, Dimensionality Reduction, Supervised Learning, Unsupervised Learning, Deep Learning, and Database management.
 
-Currently I am working on Transformer based NLP model fine tuning uisng Open Source transformer model using HuggingFace Hub. Exciited to work on building Prompt based Longchain scripts using API wrappers.
+Currently, I am working on Transformers in Large Language model (such as Auto-Regressive / Auto-Encoding Transformer model). Excited to work on building Prompt-based Longchain scripts using API wrappers.
 
 ## Skills
 - **GenAI**
@@ -25,7 +25,7 @@ Currently I am working on Transformer based NLP model fine tuning uisng Open Sou
   - tiktoken, pypdf
 
 - **Machine Learning**
-  - Supervised Learning (Classification & Regression model), Unspervised Learning.
+  - Supervised Learning (Classification & Regression model), Unsupervised Learning.
   - Bagging & Boosting Models
   - Natural Language Processing (Tokenization, Embeddings)
   - Long Short-Term Memory (LSTM)
@@ -33,11 +33,11 @@ Currently I am working on Transformer based NLP model fine tuning uisng Open Sou
   - Data Cleaning, Data Preparation
   - Exploratory Data Analysis
   - Feature Engineering
-  - Model Builing
+  - Model Building
   - Convolutional Neural Network
 
 - **Python Libraries**
-  - scikit-learn, tensorflow & Keras, PyTorch
+  - sci-kit-learn, Tensorflow & Keras, PyTorch
   - boto3
   - flask, flassger, FastAPI, logging
 
