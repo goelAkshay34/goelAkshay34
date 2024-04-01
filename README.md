@@ -18,6 +18,7 @@ Currently, I am working on Transformers in Large Language model (such as Auto-Re
   - Transformer model Architecture, Encoder, Decoder, Self Attention, Softmax
   - Text Classification, Token Classification, Zero-Shot Classification, Summarization
   - Text2Text Generation, Feature Extraction, Text-to-Image, Image-to-Text
+  - Diffusion models and fine-tuning using DreamBooth
 
 - **Python Libraries for transformer model**
   - transformers, langchain, streamlit, Hugging face,
