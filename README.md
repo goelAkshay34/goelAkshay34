@@ -8,9 +8,11 @@
 
 ## Summary
 
-Machine Learning Engineer with 4+ years of hands-on experience in the end-to-end machine learning model build lifecycle. My expertise spans various areas, including Exploratory Data Analysis, Data Visualization, Dimensionality Reduction, Supervised Learning, Unsupervised Learning, Deep Learning, and Database management.
+Machine Learning Engineer with 5.5+ years of hands-on experience, specialized in building end-to-end Generative AI and Machine Learning solutions. I possess extensive expertise in Python and a strong background in building and deploying AI applications using libraries like Langchain/ LangGraph for NLP tasks, TensorFlow/PyTorch for deep learning, scikit-learn for Machine Learning, CI/CD pipelines and GCP - Vertex AI Platform & AWS services for cloud infrastructure. 
 
-Currently, I am working on Transformers in Large Language model (such as Auto-Regressive / Auto-Encoding Transformer model). Excited to work on building Prompt-based Longchain scripts using API wrappers.
+Proven ability to design microservices and deploy user-focused AI solutions, leveraging client-server based architecture. Hands-on experience in developing Agentic AI projects, Retrieval-Augmented Generation (RAG), Multimodal Prompt Engineering and fine-tuning LLMs. Passionate about the latest AI advancements and eager to collaborate on innovative projects that deliver tangible value
+
+Currently, I am building AI Data Vizualization with Agentic AI using LangGraph.
 
 ## Skills
 - **GenAI**
@@ -18,12 +20,11 @@ Currently, I am working on Transformers in Large Language model (such as Auto-Re
   - Transformer model Architecture, Encoder, Decoder, Self Attention, Softmax
   - Text Classification, Token Classification, Zero-Shot Classification, Summarization
   - Text2Text Generation, Feature Extraction, Text-to-Image, Image-to-Text
-  - Diffusion models and fine-tuning using DreamBooth
 
-- **Python Libraries for transformer model**
-  - transformers, langchain, streamlit, Hugging face,
+- **Python Libraries **
+  - transformers, langchain, LangGraph, Hugging face,
   - pinnecone-client, Cohere, OpenAI
-  - tiktoken, pypdf
+  - tiktoken, pypdf, Pants build
 
 - **Machine Learning**
   - Supervised Learning (Classification & Regression model), Unsupervised Learning.
@@ -43,16 +44,21 @@ Currently, I am working on Transformers in Large Language model (such as Auto-Re
   - flask, flassger, FastAPI, logging
 
 - **Deployment**
-  - CI/CD Pipeline Automation using Jenkins
-  - Containerization using Docker
+  - CI/CD Pipeline, Vertex AI Pipelines, kubeflow pipelines
+  - Containerization using Docker, EKS
+  - Datadog Dashboard for Metrics Monitoring
+
+- **API**
   - Exposing ML model using API
+  - RESTful APIs, gRPC
+    
 
 - **AWS**
   - RDS, ECS, ECR, VPC, S3, IAM, EC2
   -  Lambda, CloudWatch, Sagemaker, Kinesis, Firehose
   
-- **Azure**
-  - Virtual Machine, Data Factory, Function App, Azure Database for PostgreSQL
+- **GCP**
+  - Vertex AI Platform, Agent Builder, BigQuery, GCP services: Compute, GCS, Artifact Registry, Cloud Run, Dataflow, Dataproc, IAM, VPC
 
 ---
 <hr>
