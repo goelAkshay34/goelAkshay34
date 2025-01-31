@@ -2,8 +2,8 @@
 
 📧 **Email:** akshaygoel34@gmail.com  
 🌐 **LinkedIn:** [linkedin.com/in/akshaygoel34](https://www.linkedin.com/in/akshaygoel34)  
-🌐 **GitHub:** [github.com/goelAkshay34](https://github.com/goelAkshay34)
-   **Leetcode:** [https://leetcode.com/u/akshay_goel/](https://leetcode.com/u/akshay_goel/)
+🌐 **GitHub:** [github.com/goelAkshay34](https://github.com/goelAkshay34)  
+<img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode Logo" width="19"/>**Leetcode:** [https://leetcode.com/u/akshay_goel/](https://leetcode.com/u/akshay_goel/)
 
 ---
 
